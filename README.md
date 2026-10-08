@@ -22,15 +22,51 @@ I enjoy learning by building practical projects and improving my engineering ski
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python • C • C++
+### 💻 Programming
 
-**Web:** HTML • CSS • JavaScript
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
+</p>
 
-**Hardware:** ESP32 • Arduino • Sensors • IoT
+### 🌐 Web Development
 
-**VLSI:** Digital Electronics • Logic Design • Verilog / HDL *(Learning)*
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+</p>
 
-**Tools:** Git • GitHub • VS Code
+### 🔌 Hardware
+
+<p>
+<img src="https://cdn.simpleicons.org/espressif/E7352C" width="45"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/arduino/00979D" width="45"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/raspberrypi/A22846" width="45"/>
+</p>
+
+**ESP32 • Arduino • Sensors • IoT**
+
+### 🧠 VLSI & Digital Design
+
+**Digital Electronics • Logic Design • Verilog / HDL • VLSI Fundamentals**
+
+### 🧰 Tools
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
+</p>
 
 ---
 
@@ -38,7 +74,7 @@ I enjoy learning by building practical projects and improving my engineering ski
 
 ### ⚡ NITRO – Intelligent Energy Monitoring System
 
-Energy monitoring and wastage detection system for hostels and colleges.
+Energy monitoring and wastage detection system designed for hostels and colleges.
 
 `ESP32` `Sensors` `IoT` `Web Development`
 
@@ -86,20 +122,26 @@ A Python-based personal assistant and automation project.
 <p align="center">
 
 <a href="https://github.com/sanjuvc01">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
 </a>
+
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/sanjayvc">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
 </a>
 
+&nbsp;&nbsp;&nbsp;
+
 <a href="https://www.instagram.com/sanju_vc_">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://cdn.simpleicons.org/instagram/E4405F" width="40"/>
 </a>
 
 </p>
 
-**Discord:** `sanju_vc`
+<p align="center">
+Discord: <b>sanju_vc</b>
+</p>
 
 ---
 
