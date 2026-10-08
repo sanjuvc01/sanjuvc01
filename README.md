@@ -122,25 +122,21 @@ A Python-based personal assistant and automation project.
 <p align="center">
 
 <a href="https://github.com/sanjuvc01">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42"/>
 </a>
-
-&nbsp;&nbsp;&nbsp;
-
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/sanjayvc">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="42"/>
 </a>
-
-&nbsp;&nbsp;&nbsp;
-
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/sanju_vc_">
-<img src="https://cdn.simpleicons.org/instagram/E4405F" width="40"/>
+<img src="https://cdn.simpleicons.org/instagram/E4405F" width="42"/>
 </a>
 
 </p>
 
 <p align="center">
-Discord: <b>sanju_vc</b>
+💬 Discord: <b>sanju_vc</b>
 </p>
 
 ---
