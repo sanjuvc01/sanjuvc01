@@ -24,7 +24,7 @@ I enjoy learning by building practical projects and improving my engineering ski
 
 ### 💻 Programming
 
-<p>
+<p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
@@ -34,7 +34,7 @@ I enjoy learning by building practical projects and improving my engineering ski
 
 ### 🌐 Web Development
 
-<p>
+<p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
@@ -42,14 +42,12 @@ I enjoy learning by building practical projects and improving my engineering ski
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
 </p>
 
-### 🔌 Hardware
+### 🔌 Hardware & IoT
 
-<p>
+<p align="left">
 <img src="https://cdn.simpleicons.org/espressif/E7352C" width="45"/>
 &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/arduino/00979D" width="45"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/raspberrypi/A22846" width="45"/>
 </p>
 
 **ESP32 • Arduino • Sensors • IoT**
@@ -60,7 +58,7 @@ I enjoy learning by building practical projects and improving my engineering ski
 
 ### 🧰 Tools
 
-<p>
+<p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
@@ -119,25 +117,45 @@ A Python-based personal assistant and automation project.
 
 ## 🤝 Connect With Me
 
-<p align="center">
-
+<table align="center">
+<tr>
+<td align="center">
 <a href="https://github.com/sanjuvc01">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+</td>
+
+<td align="center">
 <a href="https://www.linkedin.com/in/sanjayvc">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45"/>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+</td>
+
+<td align="center">
 <a href="https://www.instagram.com/sanju_vc_">
-<img src="https://cdn.simpleicons.org/instagram/E4405F" width="42"/>
+<img src="https://cdn.simpleicons.org/instagram/E4405F" width="45"/>
 </a>
+</td>
 
-</p>
+<td align="center">
+<img src="https://cdn.simpleicons.org/discord/5865F2" width="45"/>
+</td>
+</tr>
 
-<p align="center">
-💬 Discord: <b>sanju_vc</b>
-</p>
+<tr>
+<td align="center">GitHub</td>
+<td align="center">LinkedIn</td>
+<td align="center">Instagram</td>
+<td align="center">Discord</td>
+</tr>
+
+<tr>
+<td align="center">sanjuvc01</td>
+<td align="center">sanjayvc</td>
+<td align="center">sanju_vc_</td>
+<td align="center">sanju_vc</td>
+</tr>
+</table>
 
 ---
 
