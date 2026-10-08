@@ -112,7 +112,13 @@ A Python-based personal assistant and automation project.
 <img src="https://github-readme-stats.vercel.app/api?username=sanjuvc01&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjuvc01&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
+---
 
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=sanjuvc01&theme=tokyonight&hide_border=true"/>
+</p>
 ---
 
 ## 🤝 Connect With Me
